@@ -1,0 +1,5 @@
+.terraform
+*tfstate*
+tfplan
+cloud_sql_proxy
+*.zip
